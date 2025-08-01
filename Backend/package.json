@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend del proyecto con node.js y express",
+  "keywords": [
+    "-"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "license": "ISC",
+  "author": "Martina",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Retro';
+  src: url('/fonts/DivebarVintage_PERSONAL_USE_ONLY.otf') format('opentype');
+  
+}
+
+@font-face {
+  font-family: 'Gibralt';
+  src: url('/fonts/GibraltDEMO-Bold.otf') format('opentype');
+
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('/fonts/JosefinSans-Regular.ttf') format('truetype');
+
+}
+
+h1 {
+  font-family: 'Retro', sans-serif;
+  text-align: center;
+  /*line-height: 1.2;*/
+}
+
+h4 {
+  font-family: 'Gibralt', sans-serif;
+  text-align: center;
+}
+
+.contenedor-app {
+  background-image: url('../public/imgs/img1.jpg');
+  background-size: cover;
+  width: 100vw; 
+  height: 100vh;
+}
+
+* {
+  font-family: 'Josefin', sans-serif;
+}
